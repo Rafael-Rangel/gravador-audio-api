@@ -4,8 +4,9 @@
   "description": "API para gravação e transcrição de áudio",
   "main": "api.js",
   "scripts": {
-    "start": "node api.js"
-  },
+  "start": "node api.js",
+  "postinstall": "npm install"
+},
   "dependencies": {
     "express": "^4.21.2"
   }
