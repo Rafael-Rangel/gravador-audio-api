@@ -1,0 +1,12 @@
+{
+  "name": "gravador-audio-api",
+  "version": "1.0.0",
+  "description": "API para gravação e transcrição de áudio",
+  "main": "api.js",
+  "scripts": {
+    "start": "node api.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
